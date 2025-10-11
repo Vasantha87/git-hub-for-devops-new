@@ -25,5 +25,15 @@ git commit -m "added file"
 copy from github
  #git remote add origin 
  git remote -v
+ git push origin master
+rm -rf .git/ = to remove git repository
+nano fi.txt = to create file
+ls -al = to see hidden files
+touch = create file
+git log = to check what commet are done
+git status -v = detail it will show
+git status -s = short
+git rm --cached file name =  staging to unstaging 
+
 
 
