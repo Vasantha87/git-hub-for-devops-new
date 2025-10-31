@@ -44,3 +44,6 @@ git init --initial-branch=main
  M git_commands-new 
 ?? login.html (untracked file)
 
+git commit -m "created login feature" -m "Created boiler plate code for the login page" 
+
+# 1st -m is subject and 2nd -m what we have created 
