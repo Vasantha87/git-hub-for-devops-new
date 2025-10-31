@@ -35,5 +35,12 @@ git status -v = detail it will show
 git status -s = short
 git rm --cached file name =  staging to unstaging 
 
+git commit
 
+to change name master to main
+
+git init --initial-branch=main
+
+ M git_commands-new 
+?? login.html (untracked file)
 
